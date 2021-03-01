@@ -1,3 +1,8 @@
+https://github.com/qytan119/hw-bdd-cucumber
+===============================================================================================================================================
+cucumber log
+===============================================================================================================================================
+
 Using the default profile...
 Feature: display list of movies filtered by MPAA rating
   As a concerned parent
@@ -67,4 +72,4 @@ Feature: display list of movies sorted by different criteria
 
 4 scenarios (4 passed)
 26 steps (26 passed)
-0m0.415s
+0m0.425s
